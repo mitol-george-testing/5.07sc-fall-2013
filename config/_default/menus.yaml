@@ -1,0 +1,147 @@
+leftnav:
+- identifier: 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd
+  name: Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: 2f64e3f6-bd9c-a4c8-785a-b31136b28972
+  name: Meet The Team
+  parent: 0416c6fa-ef6a-8e14-e257-2a13a8ef82fd
+  url: /pages/syllabus/meet-the-team
+  weight: 20
+- identifier: 2d6e92b2-0a5d-3994-8d83-539f5b3a872a
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
+- identifier: 6ee8b2ee-1fb6-0cc3-f7d1-2594a7d4d55b
+  name: Lexicon
+  url: /pages/lexicon
+  weight: 40
+- identifier: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  name: 'Module I: Basic Biochemistry'
+  url: /pages/module-i/
+  weight: 50
+- identifier: 1fc4da87-9128-0568-ac58-25fccb720421
+  name: Session 1
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-1
+  weight: 60
+- identifier: 784e7357-9d3b-ba4b-07bb-7259086a7456
+  name: Session 2
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-2
+  weight: 70
+- identifier: 27144c40-64d0-090f-a5fa-7413272ece82
+  name: Session 3
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-3
+  weight: 80
+- identifier: 1ce10481-e08c-8afe-1143-3ec9c84f3a3b
+  name: Session 4
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-4
+  weight: 90
+- identifier: 57cb5406-f873-5689-623d-f08bb1077277
+  name: Session 5
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-5
+  weight: 100
+- identifier: 715af689-4051-bbb6-c4e8-3ea908ce930b
+  name: Session 6
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-6
+  weight: 110
+- identifier: ee6a5544-2c1e-2ee9-3686-bd979c6d5634
+  name: Session 7
+  parent: e9b95b7e-a96b-1d21-2eb7-0c269c68536e
+  url: /pages/module-i/session-7
+  weight: 120
+- identifier: 50f2734f-4560-9f09-dbc8-afa40433ce71
+  name: Exam I
+  url: /pages/exam-i
+  weight: 130
+- identifier: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  name: 'Module II: Production of Energy in the Cell'
+  url: /pages/module-ii/
+  weight: 140
+- identifier: 17c27441-e358-70d8-0e8a-f92b5b927035
+  name: Session 8
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-8
+  weight: 150
+- identifier: eeb03753-dead-a602-6b7f-4d5632a15d48
+  name: Session 9
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-9
+  weight: 160
+- identifier: e618325b-7f53-2a3c-a461-2b451fd45c34
+  name: Session 10
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-10
+  weight: 170
+- identifier: 58843ff6-eea1-ac3d-1eb2-2129d17d7148
+  name: Session 11
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-11
+  weight: 180
+- identifier: 9f4429fe-b956-2eff-21ea-87330cbbed91
+  name: Session 12
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-12
+  weight: 190
+- identifier: 8105f8e5-4a43-4afc-cf2b-0cfeb0aa9832
+  name: Session 13
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-13
+  weight: 200
+- identifier: 17d352db-6c96-2121-bee6-41563cc9a8b1
+  name: Session 14
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-14
+  weight: 210
+- identifier: 70b2da5f-1582-4ec1-7560-6e34a1ecc82f
+  name: Session 15
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-15
+  weight: 220
+- identifier: 816ff9e8-5bd5-83d2-afa4-8dda720d2220
+  name: Session 16
+  parent: 29eb687e-7d27-4b59-afef-6a3dc3859291
+  url: /pages/module-ii/session-16
+  weight: 230
+- identifier: 0bdeb870-0057-3309-f833-15b337f07f4f
+  name: 'Module III: Using Energy to Make Macromolecules'
+  url: /pages/module-iii/
+  weight: 240
+- identifier: 78993cdf-e45b-61dc-38c2-741201d0a3ec
+  name: Session 17
+  parent: 0bdeb870-0057-3309-f833-15b337f07f4f
+  url: /pages/module-iii/session-17
+  weight: 250
+- identifier: 75fe79d4-5450-b071-d5b0-f03061b94b38
+  name: Session 18
+  parent: 0bdeb870-0057-3309-f833-15b337f07f4f
+  url: /pages/module-iii/session-18
+  weight: 260
+- identifier: 79ac34bd-9fd5-247a-fbf7-f168dd133ab4
+  name: Session 19
+  parent: 0bdeb870-0057-3309-f833-15b337f07f4f
+  url: /pages/module-iii/session-19
+  weight: 270
+- identifier: 0be246d3-8f26-0940-e277-8af19f6d9853
+  name: Session 20
+  parent: 0bdeb870-0057-3309-f833-15b337f07f4f
+  url: /pages/module-iii/session-20
+  weight: 280
+- identifier: cb7b5577-39a4-3a08-9c64-90a6df6bee82
+  name: Session 21
+  parent: 0bdeb870-0057-3309-f833-15b337f07f4f
+  url: /pages/module-iii/session-21
+  weight: 290
+- identifier: 2ecc4b5c-d1fd-1ac8-7ed2-778d4b8ec214
+  name: Exam IV
+  url: /pages/exam-iv
+  weight: 300
+- identifier: d07abae0-c8dd-bcec-b1b6-138f19c824ba
+  name: Resource Index
+  url: /pages/resource-index
+  weight: 310
